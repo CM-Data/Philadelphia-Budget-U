@@ -1,0 +1,552 @@
+,fund,department,class_id,total2016,total2017,total2018,total
+0,Grants Revenue Fund,Revenue,Purchase of Services,21150000,21425000,26425000,26425000
+1,General Fund,City Council,Personal Services,14309858,14309858,14692111,14824858
+2,General Fund,City Council,Purchase of Services,1804485,1904485,1904485,1971885
+3,General Fund,City Council,"Materials, Supplies, and Equipment",410650,510650,510650,528650
+4,General Fund,City Council,"Contributions, Indemnities, Refunds, and Taxes",100,100,100,100
+5,General Fund,City Council,Payments to Other Funds,100,100,100,100
+6,General Fund,City Council,Advances and Other Misc Payments,100,100,100,100
+7,General Fund,Labor Relations,Personal Services,559029,982792,1538459,1562009
+8,General Fund,Labor Relations,Purchase of Services,5277,5277,17277,17277
+9,General Fund,Labor Relations,"Materials, Supplies, and Equipment",8160,8160,11660,11660
+10,General Fund,Mayor's Office,Personal Services,4166124,3410559,3735550,4492862
+11,General Fund,Mayor's Office,Purchase of Services,990336,796336,703046,657465
+12,General Fund,Mayor's Office,"Materials, Supplies, and Equipment",50165,54245,55545,27841
+13,General Fund,Mayor's Office - Scholarships,"Contributions, Indemnities, Refunds, and Taxes",200000,200000,200000,200000
+14,General Fund,Office of Innovation and Technology,Personal Services,19900681,20884763,21399109,20817723
+15,General Fund,Office of Innovation and Technology,Purchase of Services,54383430,52318443,49396110,66655313
+16,General Fund,Office of Innovation and Technology,"Materials, Supplies, and Equipment",9598351,10359058,13332289,14398899
+17,General Fund,Mayor's Office of Community Empowerment and Opportunity,Personal Services,,90000,295000,90000
+18,General Fund,Mayor's Office of Community Empowerment and Opportunity,Purchase of Services,,605000,1445000,500000
+19,General Fund,Atwater Kent Museum,Personal Services,243498,244817,251897,248163
+20,General Fund,Atwater Kent Museum,"Contributions, Indemnities, Refunds, and Taxes",50000,50000,50000,50000
+21,General Fund,Art Museum,"Contributions, Indemnities, Refunds, and Taxes",2550000,2550000,2550000,2550000
+22,General Fund,Mural Arts Program,Personal Services,464216,490401,548987,583401
+23,General Fund,Mural Arts Program,Purchase of Services,1181800,1125615,1275615,1375615
+24,General Fund,Office of Arts and Culture,Personal Services,201367,312767,319878,312767
+25,General Fund,Office of Arts and Culture,Purchase of Services,593800,482400,482400,482400
+26,General Fund,Office of Arts and Culture,"Materials, Supplies, and Equipment",7000,7000,7000,7000
+27,General Fund,Office of Arts and Culture,"Contributions, Indemnities, Refunds, and Taxes",2070688,3370688,3370688,3370688
+28,General Fund,Office of the Inspector General,Personal Services,1470611,1390611,1444811,1533111
+29,General Fund,Office of the Inspector General,Purchase of Services,192975,272975,197975,97975
+30,General Fund,Office of the Inspector General,"Materials, Supplies, and Equipment",5225,5225,5225,5225
+31,General Fund,Mayor - Office of the CAO,Personal Services,,3092731,3986939,4137615
+32,General Fund,Mayor - Office of the CAO,Purchase of Services,,1521049,1652049,2015049
+33,General Fund,Mayor - Office of the CAO,"Materials, Supplies, and Equipment",,15665,16665,16665
+34,General Fund,Mayor - Office of Education,Personal Services,,,,2592084
+35,General Fund,Mayor - Office of Education,Purchase of Services,,,,21711818
+36,General Fund,Mayor - Office of Education,"Materials, Supplies, and Equipment",,,,45550
+37,General Fund,Mayor - Office of Education,"Contributions, Indemnities, Refunds, and Taxes",,,,100000
+38,General Fund,Mayor - Planning and Development,Personal Services,,416000,,4676095
+39,General Fund,Mayor - Planning and Development,Purchase of Services,,40000,,3366113
+40,General Fund,Mayor - Planning and Development,"Materials, Supplies, and Equipment",,60000,,101461
+41,General Fund,Finance - Refunds,"Contributions, Indemnities, Refunds, and Taxes",250000,250000,250000,250000
+42,General Fund,Mayor - Planning and Development,"Contributions, Indemnities, Refunds, and Taxes",,500000,,4168000
+43,General Fund,Managing Director's Office,Personal Services,16316293,18710832,19776006,20342262
+44,General Fund,Managing Director's Office,Purchase of Services,60748402,63616032,18662351,23055912
+45,General Fund,Managing Director's Office,Purchase of Services,60748402,63616032,47414381,23055912
+46,General Fund,Managing Director's Office,Purchase of Services,60748402,63616032,18662351,49025841
+47,General Fund,Managing Director's Office,Purchase of Services,60748402,63616032,47414381,49025841
+48,General Fund,Managing Director's Office,"Materials, Supplies, and Equipment",538979,665279,767479,1142963
+49,General Fund,Fleet Management,Personal Services,16544893,16613280,18009259,18539450
+50,General Fund,Fleet Management,Purchase of Services,9604396,9604396,5104396,5104396
+51,General Fund,Fleet Management,Purchase of Services,9604396,9604396,4500000,5104396
+52,General Fund,Fleet Management,"Materials, Supplies, and Equipment",35428211,34928211,26463211,25418211
+53,General Fund,Fleet Management,"Materials, Supplies, and Equipment",35428211,34928211,9465000,25418211
+54,General Fund,Fleet Management,"Materials, Supplies, and Equipment",35428211,34928211,26463211,14797739
+55,General Fund,Fleet Management,"Materials, Supplies, and Equipment",35428211,34928211,9465000,14797739
+56,General Fund,Police,Personal Services,622058347,629443111,631372338,688759185
+57,General Fund,Police,Purchase of Services,7262807,7462807,7462807,7462807
+58,General Fund,Police,"Materials, Supplies, and Equipment",13417702,13270952,13270952,13270952
+59,General Fund,Streets,Personal Services,72724132,72707604,78481768,84297081
+60,General Fund,Streets,Purchase of Services,48819455,48989455,49726261,49988914
+61,General Fund,Streets,"Materials, Supplies, and Equipment",3809962,3809962,8846224,8317104
+62,General Fund,Streets,"Contributions, Indemnities, Refunds, and Taxes",53171,53171,53171,53171
+63,General Fund,Fire,Personal Services,196783581,201369162,225242832,244939864
+64,General Fund,Fire,Purchase of Services,5895975,5375153,5789667,6046121
+65,General Fund,Fire,"Materials, Supplies, and Equipment",7556014,7421014,8541535,8259314
+66,General Fund,Public Health,Personal Services,50298254,50960468,54454436,54853461
+67,General Fund,Public Health,Purchase of Services,59953424,66382802,73597713,92882896
+68,General Fund,Public Health,"Materials, Supplies, and Equipment",5490768,5490768,6343418,8397518
+69,General Fund,Public Health,Payments to Other Funds,500000,500000,500000,500000
+70,General Fund,Office of Behavioral Health and Intellectual Disabilities,Personal Services,,,,1076779
+71,General Fund,Office of Behavioral Health and Intellectual Disabilities,Purchase of Services,,,,13125510
+72,General Fund,Parks and Recreation,Personal Services,43429053,43386251,46660211,49347561
+73,General Fund,Parks and Recreation,Purchase of Services,9319525,9294525,9294525,9416490
+74,General Fund,Parks and Recreation,"Materials, Supplies, and Equipment",2673805,2673805,2673805,2750630
+75,General Fund,Parks and Recreation,"Contributions, Indemnities, Refunds, and Taxes",2289500,2314500,2527500,2647500
+76,General Fund,Parks and Recreation,Payments to Other Funds,,,,1550000
+77,General Fund,Public Property,Personal Services,8400083,8318847,8547886,8659293
+78,General Fund,Public Property,Purchase of Services,80503771,79653457,28008008,30163278
+79,General Fund,Public Property,Purchase of Services,80503771,79653457,19566102,30163278
+80,General Fund,Public Property,Purchase of Services,80503771,79653457,24655024,30163278
+81,General Fund,Public Property,Purchase of Services,80503771,79653457,28008008,22457948
+82,General Fund,Public Property,Purchase of Services,80503771,79653457,19566102,22457948
+83,General Fund,Public Property,Purchase of Services,80503771,79653457,24655024,22457948
+84,General Fund,Public Property,Purchase of Services,80503771,79653457,28008008,25008269
+85,General Fund,Public Property,Purchase of Services,80503771,79653457,19566102,25008269
+86,General Fund,Public Property,Purchase of Services,80503771,79653457,24655024,25008269
+87,General Fund,Public Property,"Materials, Supplies, and Equipment",1338535,1338535,1338535,1338535
+88,General Fund,Public Property,Payments to Other Funds,23367706,23916920,27554294,27678994
+89,General Fund,Public Property - SEPTA Subsidy,Purchase of Services,74215000,79720000,82749000,84776000
+90,General Fund,Human Services,Personal Services,24637310,23454344,24201560,27246823
+91,General Fund,Human Services,Personal Services,24637310,23454344,24201560,8830135
+92,General Fund,Human Services,Purchase of Services,76779935,78896204,83415018,82606805
+93,General Fund,Human Services,Purchase of Services,76779935,78896204,83415018,41904815
+94,General Fund,Human Services,"Materials, Supplies, and Equipment",1312076,868952,868952,2069970
+95,General Fund,Human Services,"Materials, Supplies, and Equipment",1312076,868952,868952,344127
+96,General Fund,Human Services,"Contributions, Indemnities, Refunds, and Taxes",,0,,32421
+97,General Fund,Prisons,Personal Services,133469579,147301168,147427858,147430918
+98,General Fund,Prisons,Purchase of Services,105351301,105455001,105455001,102865387
+99,General Fund,Prisons,"Materials, Supplies, and Equipment",4768744,4773744,4773744,4773744
+100,General Fund,Prisons,"Contributions, Indemnities, Refunds, and Taxes",1306757,1301757,1301757,1301757
+101,General Fund,Licenses and Inspections,Personal Services,19770711,21594751,23019730,23144341
+102,General Fund,Licenses and Inspections,Purchase of Services,10261906,10730904,11823061,13579060
+103,General Fund,Licenses and Inspections,"Materials, Supplies, and Equipment",1443941,1286464,912475,784475
+104,General Fund,L&I  - Board of L&I Review,Personal Services,157354,159201,161349,162284
+105,General Fund,L&I  - Board of L&I Review,Purchase of Services,10436,10436,10436,10436
+106,General Fund,L&I  - Board of Building Standards,Personal Services,73970,75419,75419,75419
+107,General Fund,Records,Personal Services,3058832,3083221,3194935,3084514
+108,General Fund,Records,Purchase of Services,1618779,1538779,1538779,1538779
+109,General Fund,Records,"Materials, Supplies, and Equipment",143758,143758,143758,143758
+110,General Fund,Records,"Contributions, Indemnities, Refunds, and Taxes",1456,1456,1456,1456
+111,General Fund,Finance,Personal Services,8801920,6911556,7328177,7765535
+112,General Fund,Finance,Purchase of Services,4370961,3029912,3029912,3029912
+113,General Fund,Finance,"Materials, Supplies, and Equipment",110774,103109,103109,103109
+114,General Fund,Finance,"Contributions, Indemnities, Refunds, and Taxes",3950000,2350000,3690000,3540000
+115,General Fund,Finance,Advances and Other Misc Payments,,,,53573000
+116,General Fund,Finance - Community College Subsidy,"Contributions, Indemnities, Refunds, and Taxes",30309207,28909207,29909207,31909207
+117,General Fund,Finance - Employee Benefits,Personal Services,1172182395,1229284926,1307799345,1352644564
+118,General Fund,Finance - Hero Scholarship Awards,"Contributions, Indemnities, Refunds, and Taxes",25000,25000,25000,25000
+119,General Fund,Finance - Indemnities,"Contributions, Indemnities, Refunds, and Taxes",38000000,40675000,44920000,45780000
+120,General Fund,Finance - Regulation 32 Payroll,Personal Services,,,,2650000
+121,Aviation Fund,Police,Personal Services,15611887,15666636,15721670,16961237
+122,General Fund,Finance - School District Contribution,"Contributions, Indemnities, Refunds, and Taxes",69184673,104263617,104348281,176164367
+123,General Fund,Finance - Witness Fees,Purchase of Services,171518,171518,171518,171518
+124,General Fund,Revenue,Personal Services,19617564,22142214,22231193,22156816
+125,General Fund,Revenue,Purchase of Services,5352949,7038149,7350349,7630749
+126,General Fund,Revenue,"Materials, Supplies, and Equipment",800976,1023476,910976,919976
+127,General Fund,Sinking Fund Commission (Debt Service),Purchase of Services,104546913,123639615,138697144,125536378
+128,General Fund,Sinking Fund Commission (Debt Service),Debt Service,141398213,153950119,157322070,169496126
+129,General Fund,Procurement,Personal Services,2472351,2504399,2566732,2573121
+130,General Fund,Procurement,Purchase of Services,2316267,2316267,2316267,2316267
+131,General Fund,Procurement,"Materials, Supplies, and Equipment",49054,49054,49054,49054
+132,General Fund,City Treasurer,Personal Services,985689,1040058,1062869,1046647
+133,General Fund,City Treasurer,Purchase of Services,118444,118444,118444,623444
+134,General Fund,City Treasurer,"Materials, Supplies, and Equipment",22224,22224,22224,22224
+135,General Fund,City Representative,Personal Services,418201,474381,601690,704470
+136,General Fund,City Representative,Purchase of Services,561730,481730,561730,399779
+137,General Fund,City Representative,"Materials, Supplies, and Equipment",54000,54000,54000,54000
+138,General Fund,Commerce,Personal Services,1943211,2374990,2200461,2120079
+139,General Fund,Commerce,Purchase of Services,1433481,1775481,2675481,3066925
+140,General Fund,Commerce,"Materials, Supplies, and Equipment",26654,26654,26654,26654
+141,General Fund,Commerce,"Contributions, Indemnities, Refunds, and Taxes",500000,500000,500000,500000
+142,General Fund,Commerce - Convention Center Subsidy,Purchase of Services,15000000,15000000,15000000,15000000
+143,General Fund,Commerce - Economic Stimulus,Purchase of Services,3294448,3294448,2794448,2397004
+144,General Fund,Law,Personal Services,7383566,7934005,8334481,8663318
+145,General Fund,Law,Purchase of Services,7010034,8410034,7010034,6579170
+146,General Fund,Law,"Materials, Supplies, and Equipment",248676,248676,248676,248676
+147,General Fund,Board of Ethics,Personal Services,924511,961403,985489,964792
+148,General Fund,Board of Ethics,Purchase of Services,96000,96000,96000,96000
+149,General Fund,Board of Ethics,"Materials, Supplies, and Equipment",14000,14000,14000,14000
+150,General Fund,Office of Sustainability,Personal Services,537979,537979,557790,537979
+151,General Fund,Office of Sustainability,Purchase of Services,279508,279508,393508,393508
+152,General Fund,Office of Sustainability,"Materials, Supplies, and Equipment",17840,17840,17840,17840
+153,General Fund,Free Library,Personal Services,35777252,35454254,36310826,36659781
+154,General Fund,Free Library,Purchase of Services,2922077,2324077,2324077,2324077
+155,General Fund,Free Library,"Materials, Supplies, and Equipment",2302659,2302659,2302659,2302659
+156,General Fund,Human Relations Commission,Personal Services,2099408,2142519,2141591,2139648
+157,General Fund,Human Relations Commission,Purchase of Services,34657,34657,34657,34657
+158,General Fund,Human Relations Commission,"Materials, Supplies, and Equipment",13031,13031,28031,28031
+159,General Fund,Civil Service Commission,Personal Services,147343,148882,166376,167462
+160,General Fund,Civil Service Commission,Purchase of Services,29500,29500,29500,29500
+161,General Fund,Civil Service Commission,"Materials, Supplies, and Equipment",1094,1094,1094,1094
+162,General Fund,Civil Service Commission,Advances and Other Misc Payments,6906535,10000000,20000000,30000000
+163,General Fund,Office of Human Resources,Personal Services,5399621,5403578,4983106,5035367
+164,General Fund,Office of Human Resources,Purchase of Services,964070,802070,959070,1239070
+165,General Fund,Office of Human Resources,"Materials, Supplies, and Equipment",69932,69932,69432,69432
+166,General Fund,Office of Property Assessment,Personal Services,10424420,10434139,11313100,11890699
+167,General Fund,Office of Property Assessment,Purchase of Services,2078126,1578126,1828126,1903126
+168,General Fund,Office of Property Assessment,"Materials, Supplies, and Equipment",782600,782600,782600,822600
+169,General Fund,Auditing,Personal Services,7772885,7909512,8426765,8370558
+170,General Fund,Auditing,Purchase of Services,497450,497450,497450,497450
+171,General Fund,Auditing,"Materials, Supplies, and Equipment",25000,25000,25000,25000
+172,General Fund,Board of Revision of Taxes,Personal Services,819627,819627,942999,935976
+173,General Fund,Board of Revision of Taxes,Purchase of Services,20200,20200,90200,75200
+174,General Fund,Board of Revision of Taxes,"Materials, Supplies, and Equipment",15727,15727,15727,15727
+175,General Fund,Register of Wills,Personal Services,3232166,3563499,3979046,3975157
+176,General Fund,Register of Wills,Purchase of Services,75486,75486,75486,75486
+177,General Fund,Register of Wills,"Materials, Supplies, and Equipment",33210,33210,189750,189750
+178,General Fund,District Attorney,Personal Services,32490021,33303525,34686670,34668476
+179,General Fund,District Attorney,Purchase of Services,2467172,2467172,2594296,2994296
+180,General Fund,District Attorney,"Materials, Supplies, and Equipment",525021,525021,529521,529521
+181,General Fund,Sheriff,Personal Services,17104325,19008101,21522650,22933165
+182,General Fund,Sheriff,Purchase of Services,715267,715267,1105267,1105267
+183,General Fund,Sheriff,"Materials, Supplies, and Equipment",393207,418907,443907,443907
+184,General Fund,City Commissioners,Personal Services,5624276,5638818,5872200,5926203
+185,General Fund,City Commissioners,Purchase of Services,3497350,3497350,3497350,3497350
+186,General Fund,City Commissioners,"Materials, Supplies, and Equipment",541617,541617,541617,541617
+187,General Fund,First Judicial District,Personal Services,97206858,97254698,99505601,99194666
+188,General Fund,First Judicial District,Purchase of Services,10656574,10656574,9545039,8130039
+189,General Fund,First Judicial District,"Materials, Supplies, and Equipment",2391868,2391868,2391868,2231868
+190,Water Fund,Office of Innovation and Technology,Personal Services,6265289,6316852,7256281,8003747
+191,Water Fund,Office of Innovation and Technology,Purchase of Services,14706497,14050511,19043874,20930724
+192,Water Fund,Office of Innovation and Technology,"Materials, Supplies, and Equipment",216200,2045628,2700550,3032350
+193,Water Fund,Managing Director's Office,Personal Services,,138550,138550,138550
+194,Water Fund,Fleet Management,Personal Services,2969317,2969317,3062196,3062196
+195,Water Fund,Fleet Management,Purchase of Services,1489000,1489000,1489000,1489000
+196,Water Fund,Fleet Management,"Materials, Supplies, and Equipment",4214640,4274640,4274640,4274640
+197,Water Fund,Public Property,Purchase of Services,4042633,4042633,4256817,4265847
+198,Water Fund,Water,Personal Services,102961600,107808919,116470294,119823412
+199,Water Fund,Water,Personal Services,102961600,107808919,116470294,40000
+200,Water Fund,Water,Purchase of Services,151645200,160565792,157471521,173643500
+201,Water Fund,Water,Purchase of Services,151645200,160565792,157471521,500000
+202,Water Fund,Water,"Materials, Supplies, and Equipment",44061850,48537569,48934793,54083000
+203,Water Fund,Water,"Materials, Supplies, and Equipment",44061850,48537569,48934793,25000
+204,Water Fund,Water,"Contributions, Indemnities, Refunds, and Taxes",100000,501000,600000,671000
+205,Water Fund,Water,Payments to Other Funds,65000000,66700000,71000000,71000000
+206,Water Fund,Finance - Employee Benefits,Personal Services,110915262,113965262,122132283,138140401
+207,Water Fund,Finance - Indemnities,"Contributions, Indemnities, Refunds, and Taxes",6500000,6500000,6500000,8500000
+208,Water Fund,Revenue,Personal Services,11138839,11979473,9759200,10171000
+209,Water Fund,Revenue,Purchase of Services,4484480,5072174,5048100,5059000
+210,Water Fund,Revenue,"Materials, Supplies, and Equipment",514485,1434199,1428400,1429500
+211,Water Fund,Revenue,"Contributions, Indemnities, Refunds, and Taxes",5000,5000,5000,5000
+212,Water Fund,Sinking Fund Commission (Debt Service),Debt Service,227139336,207371679,240267536,212992336
+213,Water Fund,Procurement,Personal Services,77383,82098,89261,93093
+214,Water Fund,Law,Personal Services,2506206,2506206,2506206,2506206
+215,Water Fund,Law,Purchase of Services,691614,691614,691614,691614
+216,Water Fund,Law,"Materials, Supplies, and Equipment",30000,43010,43010,43010
+217,Water Fund,Office of Sustainability,Personal Services,63874,63874,63874,63874
+218,Water Fund,Office of Sustainability,Purchase of Services,30000,30000,30000,30000
+219,Water Residual Fund,Water,Payments to Other Funds,34724000,34724000,37000000,37000000
+220,County Liquid Fuels Tax Fund,Streets,Personal Services,3734000,3734000,3734000,3734000
+221,County Liquid Fuels Tax Fund,Streets,Purchase of Services,861000,747330,2500330,3320330
+222,County Liquid Fuels Tax Fund,Streets,"Materials, Supplies, and Equipment",256330,,,200000
+223,County Liquid Fuels Tax Fund,Streets,Payments to Other Funds,18670,18670,18670,18670
+224,Special Gasoline Tax Fund,Streets,Personal Services,3000000,4057500,5357500,6794388
+225,Special Gasoline Tax Fund,Streets,Purchase of Services,15558550,16590335,18110424,16729343
+226,Special Gasoline Tax Fund,Streets,"Materials, Supplies, and Equipment",4871442,13102165,14502076,12386269
+227,Special Gasoline Tax Fund,Streets,Payments to Other Funds,15000,20000,30000,30000
+228,Special Gasoline Tax Fund,Finance - Employee Benefits,Personal Services,1000000,1000000,1000000,1000000
+229,Healthchoices Behavioral Health Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,Personal Services,,,,800000
+230,Healthchoices Behavioral Health Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,Purchase of Services,,,,1299100000
+231,Healthchoices Behavioral Health Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,Payments to Other Funds,,,,100000
+232,Hotel Room Rental Tax Fund,Commerce,"Contributions, Indemnities, Refunds, and Taxes",62700000,63954000,70350000,73868000
+233,Grants Revenue Fund,City Council - Veterans Advisory Commission,Personal Services,,,,100000
+234,Grants Revenue Fund,City Council - Veterans Advisory Commission,Purchase of Services,,,,75000
+235,Grants Revenue Fund,City Council - Veterans Advisory Commission,"Materials, Supplies, and Equipment",,,,30000
+236,Grants Revenue Fund,City Council - Veterans Advisory Commission,"Contributions, Indemnities, Refunds, and Taxes",,,,100
+237,Grants Revenue Fund,City Council - Veterans Advisory Commission,Payments to Other Funds,,,,100
+238,Grants Revenue Fund,City Council - Veterans Advisory Commission,Advances and Other Misc Payments,,,,100
+239,Grants Revenue Fund,Office of Innovation and Technology,Personal Services,,605300,235347,231290
+240,Grants Revenue Fund,Office of Innovation and Technology,Purchase of Services,967655,834939,789939,958019
+241,Grants Revenue Fund,Office of Innovation and Technology,Payments to Other Funds,44702879,43005648,53786944,45896238
+242,Grants Revenue Fund,Mayor's Office,Personal Services,1116264,1021541,909506,837663
+243,Grants Revenue Fund,Mayor's Office,Personal Services,1116264,1021541,69577,837663
+244,Grants Revenue Fund,Mayor's Office,Personal Services,1116264,1021541,909506,64080
+245,Grants Revenue Fund,Mayor's Office,Personal Services,1116264,1021541,69577,64080
+246,Grants Revenue Fund,Mayor's Office,Purchase of Services,658412,8929,3337,11473
+247,Grants Revenue Fund,Mayor's Office,"Materials, Supplies, and Equipment",7190,5120,3515,1969
+248,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,Personal Services,,3102912,2646348,2399073
+249,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,Personal Services,,3102912,480329,2399073
+250,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,Personal Services,,3102912,2646348,429391
+251,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,Personal Services,,3102912,480329,429391
+252,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,Purchase of Services,,12979913,16486379,15646220
+253,Grants Revenue Fund,Mayor's Office of Community Empowerment and Opportunity,"Materials, Supplies, and Equipment",,58465,64463,70540
+254,Grants Revenue Fund,Mayor - Office of the CAO,Personal Services,,,,102307
+255,Grants Revenue Fund,Mayor - Office of Education,Personal Services,,,,76667
+256,Grants Revenue Fund,Mayor - Office of Education,Personal Services,,,,34063
+257,Grants Revenue Fund,Mayor - Office of Education,Purchase of Services,,,,189630
+258,Grants Revenue Fund,Mayor - Office of Education,"Materials, Supplies, and Equipment",,,,1500
+259,Grants Revenue Fund,Managing Director's Office,Personal Services,1864474,2518877,2672052,3293207
+260,Grants Revenue Fund,Managing Director's Office,Purchase of Services,4021103,5862479,42977662,5847251
+261,Grants Revenue Fund,Managing Director's Office,"Materials, Supplies, and Equipment",183113,242926,780350,410089
+262,Grants Revenue Fund,Police,Personal Services,6249926,6193806,5277950,3861903
+263,Grants Revenue Fund,Police,Personal Services,6249926,6193806,343747,3861903
+264,Grants Revenue Fund,Police,Personal Services,6249926,6193806,5277950,384114
+265,Grants Revenue Fund,Police,Personal Services,6249926,6193806,343747,384114
+266,Grants Revenue Fund,Police,Purchase of Services,6276769,3832048,5825852,4356842
+267,Grants Revenue Fund,Police,"Materials, Supplies, and Equipment",6040694,10889084,9135530,7143170
+268,Grants Revenue Fund,Streets,Personal Services,720000,1035000,1123000,1355000
+269,Grants Revenue Fund,Streets,Personal Services,720000,1035000,76000,1355000
+270,Grants Revenue Fund,Streets,Purchase of Services,31905144,19111000,25320000,16540000
+271,Grants Revenue Fund,Streets,"Materials, Supplies, and Equipment",1849856,4604000,6109000,5884000
+272,Grants Revenue Fund,Fire,Personal Services,9491996,15584447,10796111,11241685
+273,Grants Revenue Fund,Fire,Personal Services,9491996,15584447,1253630,11241685
+274,Grants Revenue Fund,Fire,Personal Services,9491996,15584447,10796111,1145012
+275,Grants Revenue Fund,Fire,Personal Services,9491996,15584447,1253630,1145012
+276,Grants Revenue Fund,Fire,Purchase of Services,1388014,6300019,6852077,5445189
+277,Grants Revenue Fund,Fire,"Materials, Supplies, and Equipment",223348,934732,1122244,2313262
+278,Grants Revenue Fund,Public Health,Personal Services,15358732,15472454,13540000,19043038
+279,Grants Revenue Fund,Public Health,Personal Services,15358732,15472454,4626000,19043038
+280,Grants Revenue Fund,Public Health,Personal Services,15358732,15472454,13540000,4297637
+281,Grants Revenue Fund,Public Health,Personal Services,15358732,15472454,4626000,4297637
+282,Grants Revenue Fund,Public Health,Purchase of Services,56755608,65216029,92322478,107060965
+283,Grants Revenue Fund,Public Health,"Materials, Supplies, and Equipment",1059693,2229209,2931782,22930926
+284,Grants Revenue Fund,Public Health,Payments to Other Funds,865555,771376,1038500,879732
+285,Grants Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,Personal Services,,,,17132274
+286,Grants Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,Personal Services,,,,8070519
+287,Grants Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,Purchase of Services,,,,246507560
+288,Grants Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,"Materials, Supplies, and Equipment",,,,250000
+289,Grants Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,Payments to Other Funds,,,,84707
+290,Grants Revenue Fund,Parks and Recreation,Personal Services,3836352,3664199,3174931,3337979
+291,Grants Revenue Fund,Parks and Recreation,Personal Services,3836352,3664199,529754,3337979
+292,Grants Revenue Fund,Parks and Recreation,Personal Services,3836352,3664199,3174931,592471
+293,Grants Revenue Fund,Parks and Recreation,Personal Services,3836352,3664199,529754,592471
+294,Grants Revenue Fund,Parks and Recreation,Purchase of Services,922703,1627045,1580486,1937709
+295,Grants Revenue Fund,Parks and Recreation,"Materials, Supplies, and Equipment",6335874,6846240,7146383,7346383
+296,Grants Revenue Fund,Human Services,Personal Services,116949046,119978925,79596553,81613995
+297,Grants Revenue Fund,Human Services,Personal Services,116949046,119978925,38409779,81613995
+298,Grants Revenue Fund,Human Services,Personal Services,116949046,119978925,79596553,38485241
+299,Grants Revenue Fund,Human Services,Personal Services,116949046,119978925,38409779,38485241
+300,Grants Revenue Fund,Human Services,Personal Services,116949046,119978925,79596553,1805966
+301,Grants Revenue Fund,Human Services,Personal Services,116949046,119978925,38409779,1805966
+302,Grants Revenue Fund,Human Services,Purchase of Services,451172464,446146244,469945854,484484329
+303,Grants Revenue Fund,Human Services,Purchase of Services,451172464,446146244,469945854,41873415
+304,Grants Revenue Fund,Human Services,"Materials, Supplies, and Equipment",1337197,1833876,2082114,3929155
+305,Grants Revenue Fund,Human Services,"Materials, Supplies, and Equipment",1337197,1833876,2082114,1021376
+306,Grants Revenue Fund,Finance,Advances and Other Misc Payments,,203800585,200001455,250000678
+307,Grants Revenue Fund,Procurement,Purchase of Services,,,,3000
+308,Grants Revenue Fund,Commerce,Purchase of Services,,10292701,10150000,10000000
+309,Grants Revenue Fund,Law,Purchase of Services,,,,200000
+310,Grants Revenue Fund,Office of Sustainability,Personal Services,40000,40000,50000,50000
+311,Grants Revenue Fund,Office of Sustainability,Purchase of Services,,,,168673
+312,Grants Revenue Fund,Free Library,Personal Services,1226084,1152961,979580,1144106
+313,Grants Revenue Fund,Free Library,Personal Services,1226084,1152961,207306,1144106
+314,Grants Revenue Fund,Free Library,Personal Services,1226084,1152961,979580,128255
+315,Grants Revenue Fund,Free Library,Personal Services,1226084,1152961,207306,128255
+316,Grants Revenue Fund,Free Library,Purchase of Services,3921223,3739590,4036551,4040285
+317,Grants Revenue Fund,Free Library,"Materials, Supplies, and Equipment",3221883,3378378,3601478,3301157
+318,Grants Revenue Fund,Auditing,Purchase of Services,,,,200000
+319,Grants Revenue Fund,Register of Wills,"Materials, Supplies, and Equipment",,,200000,200000
+320,Grants Revenue Fund,District Attorney,Personal Services,15475000,14949628,14591956,9504069
+321,Grants Revenue Fund,District Attorney,Personal Services,15475000,14949628,620990,9504069
+322,Grants Revenue Fund,District Attorney,Personal Services,15475000,14949628,14591956,645000
+323,Grants Revenue Fund,District Attorney,Personal Services,15475000,14949628,620990,645000
+324,Grants Revenue Fund,District Attorney,Purchase of Services,1124880,1020850,951473,4421800
+325,Grants Revenue Fund,District Attorney,"Materials, Supplies, and Equipment",26000,61550,79050,2281160
+326,Grants Revenue Fund,Mayor - Planning and Development,Personal Services,,,,90000
+327,Grants Revenue Fund,Mayor - Planning and Development,Purchase of Services,,,,56168222
+328,Grants Revenue Fund,City Commissioners,Personal Services,100000,100000,100000,125000
+329,Grants Revenue Fund,City Commissioners,Purchase of Services,600000,600000,600000,600000
+330,Grants Revenue Fund,City Commissioners,"Materials, Supplies, and Equipment",100000,200000,200000,200000
+331,Grants Revenue Fund,First Judicial District,Personal Services,50715911,41669189,26220190,28700216
+332,Grants Revenue Fund,First Judicial District,Personal Services,50715911,41669189,14377509,28700216
+333,Grants Revenue Fund,First Judicial District,Personal Services,50715911,41669189,26220190,14703283
+334,Grants Revenue Fund,First Judicial District,Personal Services,50715911,41669189,14377509,14703283
+335,Grants Revenue Fund,First Judicial District,Purchase of Services,6775539,5404400,6596489,6334462
+336,Grants Revenue Fund,First Judicial District,"Materials, Supplies, and Equipment",491967,536595,2829396,2388110
+337,Aviation Fund,Office of Innovation and Technology,Personal Services,297690,257908,780000,940000
+338,Aviation Fund,Office of Innovation and Technology,Purchase of Services,8607358,9024238,10520163,1223089
+339,Aviation Fund,Fleet Management,Personal Services,1364188,1364188,1407759,1514839
+340,Aviation Fund,Fleet Management,Purchase of Services,588000,588000,588000,588000
+341,Aviation Fund,Fleet Management,"Materials, Supplies, and Equipment",1453000,6293000,1493000,1493000
+342,Aviation Fund,Fleet Management,"Materials, Supplies, and Equipment",1453000,6293000,4800000,1493000
+343,Aviation Fund,Fleet Management,"Materials, Supplies, and Equipment",1453000,6293000,1493000,4800000
+344,Aviation Fund,Fleet Management,"Materials, Supplies, and Equipment",1453000,6293000,4800000,4800000
+345,Aviation Fund,Police,Purchase of Services,77500,77500,77500,77500
+346,Aviation Fund,Police,"Materials, Supplies, and Equipment",93000,93000,93000,93000
+347,Aviation Fund,Fire,Personal Services,6563366,6563366,8494457,7608574
+348,Aviation Fund,Fire,Purchase of Services,15000,15000,15000,15000
+349,Aviation Fund,Fire,"Materials, Supplies, and Equipment",85000,125000,402700,155900
+350,Aviation Fund,Fire,Payments to Other Funds,23000,23000,23000,23000
+351,Aviation Fund,Public Property,Purchase of Services,26900000,26900000,26900000,26900000
+352,Aviation Fund,Finance,Purchase of Services,4146000,4146000,4146000,4146000
+353,Aviation Fund,Finance - Employee Benefits,Personal Services,57194271,59194271,62129873,63950249
+354,Aviation Fund,Finance - Indemnities,"Contributions, Indemnities, Refunds, and Taxes",2512000,2512000,2512000,2512000
+355,Aviation Fund,Sinking Fund Commission (Debt Service),Debt Service,123505128,139626331,159426123,163801936
+356,Aviation Fund,Commerce,Personal Services,,47716649,49755783,51000000
+357,Aviation Fund,Commerce,Purchase of Services,,103125441,99153000,107000000
+358,Aviation Fund,Commerce,"Materials, Supplies, and Equipment",,13896000,11785000,11500000
+359,Aviation Fund,Commerce,"Contributions, Indemnities, Refunds, and Taxes",,4205000,6002500,6300000
+360,Aviation Fund,Commerce,Payments to Other Funds,,24625000,14625000,24000000
+361,Aviation Fund,Law,Personal Services,1563803,1563803,1563803,1563803
+362,Aviation Fund,Office of Sustainability,Personal Services,63873,63873,63873,63873
+363,Aviation Fund,Office of Sustainability,Purchase of Services,30000,30000,30000,30000
+364,Community Development Fund,Mayor - Planning and Development,Personal Services,,,,4708736
+365,Community Development Fund,Mayor - Planning and Development,Purchase of Services,,,,56675441
+366,Community Development Fund,Mayor - Planning and Development,"Materials, Supplies, and Equipment",,,,256000
+367,Community Development Fund,Mayor - Planning and Development,Payments to Other Funds,,,,25000
+368,Community Development Fund,Licenses and Inspections,Personal Services,514818,514818,514818,514818
+369,Community Development Fund,Finance - Employee Benefits,Personal Services,4236559,4082031,4275040,4152814
+370,Community Development Fund,Finance,Advances and Other Misc Payments,,20000000,10000000,20000000
+371,Community Development Fund,Commerce,Personal Services,935454,935454,1140312,969818
+372,Community Development Fund,Commerce,Purchase of Services,8461248,5707501,7945000,8479800
+373,Community Development Fund,Commerce,"Materials, Supplies, and Equipment",3000,8000,3000,3000
+374,Community Development Fund,Law,Personal Services,154637,154637,195573,195573
+375,Car Rental Tax Fund,Sinking Fund Commission (Debt Service),Purchase of Services,6000000,6000000,7000000,7000000
+376,Municipal Pension Fund,Board of Pensions,Personal Services,,,3931000,4195000
+377,Municipal Pension Fund,Board of Pensions,Personal Services,,,3713000,4195000
+378,Municipal Pension Fund,Board of Pensions,Personal Services,,,3931000,3918000
+379,Municipal Pension Fund,Board of Pensions,Personal Services,,,3713000,3918000
+380,Municipal Pension Fund,Board of Pensions,Purchase of Services,,,2267000,2194000
+381,Municipal Pension Fund,Board of Pensions,"Materials, Supplies, and Equipment",,,138000,165000
+382,Municipal Pension Fund,Board of Pensions,Payments to Other Funds,,,125000,90000
+383,Housing Trust Fund,Mayor - Planning and Development,Personal Services,,,,1250000
+384,Housing Trust Fund,Mayor - Planning and Development,Purchase of Services,,,,38750000
+385,Acute Care Hospital Fund,Public Health,Personal Services,,,,5393408
+386,Acute Care Hospital Fund,Public Health,Purchase of Services,,,,5980000
+387,Acute Care Hospital Fund,Public Health,Purchase of Services,,,,149000000
+388,Acute Care Hospital Fund,Public Health,"Materials, Supplies, and Equipment",,,,1339000
+389,Acute Care Hospital Fund,Public Health,Payments to Other Funds,,,,500000
+390,Acute Care Hospital Fund,Finance,Personal Services,,,,75000
+391,Acute Care Hospital Fund,Finance - Employee Benefits,Personal Services,,,,267592
+392,Acute Care Hospital Fund,Revenue,Personal Services,,,,30000
+393,Acute Care Hospital Fund,Revenue,"Materials, Supplies, and Equipment",,,,15000
+394,General Fund,Mayor - Office of Community Schools & Universal Pre - K,Personal Services,,1302500,2679927,
+395,General Fund,Mayor - Office of Community Schools & Universal Pre - K,Purchase of Services,,27750000,39407000,
+396,General Fund,Mayor - Office of Community Schools & Universal Pre - K,"Materials, Supplies, and Equipment",,400000,364750,
+397,General Fund,Mayor - Office of Community Schools & Universal Pre - K,"Contributions, Indemnities, Refunds, and Taxes",,250000,100000,
+398,General Fund,Planning and Development,Personal Services,,,3899308,
+399,General Fund,Planning and Development,Purchase of Services,,,2845113,
+400,General Fund,Planning and Development,"Materials, Supplies, and Equipment",,,101461,
+401,General Fund,Planning and Development,"Contributions, Indemnities, Refunds, and Taxes",,,850000,
+402,General Fund,Fire,Payments to Other Funds,8847226,7647000,7972000,
+403,General Fund,Office of Behavioral Health and Intellectual Disabilities,Personal Services,1000066,1010566,1093064,
+404,General Fund,Office of Behavioral Health and Intellectual Disabilities,Purchase of Services,12875510,12875510,13125510,
+405,General Fund,Office of Homeless Services,Personal Services,,,8802194,
+406,General Fund,Office of Homeless Services,Purchase of Services,,,38669215,
+407,General Fund,Office of Homeless Services,"Materials, Supplies, and Equipment",,,344127,
+408,General Fund,Office of Homeless Services,"Contributions, Indemnities, Refunds, and Taxes",,,32421,
+409,Water Fund,"Water - Philadelphia Water, Sewer, and Stormwater Rate Board",Personal Services,,,120000,
+410,Water Fund,"Water - Philadelphia Water, Sewer, and Stormwater Rate Board",Purchase of Services,,,850000,
+411,Health Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual Disabilities,Purchase of Services,960002000,1300350000,1298400000,
+412,Health Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual Disabilities,Payments to Other Funds,1500000,1600000,1600000,
+413,Grants Revenue Fund,Office of Innovation and Technology,"Materials, Supplies, and Equipment",,10450,451871,
+414,Grants Revenue Fund,Planning and Development,Personal Services,,,90000,
+415,Grants Revenue Fund,Planning and Development,Purchase of Services,,,88486222,
+416,Grants Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,Personal Services,23142889,23935379,16796254,
+417,Grants Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,Personal Services,23142889,23935379,7984251,
+418,Grants Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,Purchase of Services,231221587,237182673,245869088,
+419,Community Development Fund,Planning and Development,Purchase of Services,,,53092975,
+420,Grants Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,"Materials, Supplies, and Equipment",221250,290000,285000,
+421,Grants Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,Payments to Other Funds,76248,79010,83081,
+422,Grants Revenue Fund,Parks and Recreation,"Contributions, Indemnities, Refunds, and Taxes",110000,100000,100000,
+423,Grants Revenue Fund,Office of Homeless Services,Personal Services,,,1228201,
+424,Grants Revenue Fund,Office of Homeless Services,Purchase of Services,,,44652107,
+425,Grants Revenue Fund,Office of Homeless Services,"Materials, Supplies, and Equipment",,,1000000,
+426,Grants Revenue Fund,Prisons,Purchase of Services,30000,30000,250000,
+427,Grants Revenue Fund,Office of Arts and Culture,Purchase of Services,,,25000,
+428,Grants Revenue Fund,Auditing,"Materials, Supplies, and Equipment",74999,249999,249999,
+429,Aviation Fund,Office of Innovation and Technology,"Materials, Supplies, and Equipment",,720000,720000,
+430,Aviation Fund,Law,Purchase of Services,432439,432439,432439,
+431,Aviation Fund,Law,"Materials, Supplies, and Equipment",9557,24357,24357,
+432,Community Development Fund,Planning and Development,Personal Services,,,4726282,
+433,Community Development Fund,Planning and Development,"Materials, Supplies, and Equipment",,,261000,
+434,Community Development Fund,Planning and Development,Payments to Other Funds,,,25000,
+435,Housing Trust Fund,Planning and Development,Personal Services,,,1250000,
+436,Housing Trust Fund,Planning and Development,Purchase of Services,,,26250000,
+437,Acute Care Hospital Assessment Fund,Public Health,Personal Services,5058008,3992653,4400969,
+438,Acute Care Hospital Assessment Fund,Public Health,Purchase of Services,155638915,154174083,6690795,
+439,Acute Care Hospital Assessment Fund,Public Health,Purchase of Services,155638915,154174083,149000000,
+440,Acute Care Hospital Assessment Fund,Public Health,"Materials, Supplies, and Equipment",21000,81000,547000,
+441,Acute Care Hospital Assessment Fund,Public Health,Payments to Other Funds,2000000,1500000,500000,
+442,Acute Care Hospital Assessment Fund,Finance,Personal Services,75000,75000,75000,
+443,Acute Care Hospital Assessment Fund,Finance - Employee Benefits,Personal Services,268077,268264,268236,
+444,Acute Care Hospital Assessment Fund,Revenue,Personal Services,30000,30000,30000,
+445,Acute Care Hospital Assessment Fund,Revenue,"Materials, Supplies, and Equipment",5000,15000,15000,
+446,Community Development Fund,City Planning Commission,Personal Services,280000,280000,,
+447,Community Development Fund,Office of Housing and Community Development,Personal Services,4632873,4395140,,
+448,Community Development Fund,Office of Housing and Community Development,Purchase of Services,54626411,56430419,,
+449,Community Development Fund,Office of Housing and Community Development,"Materials, Supplies, and Equipment",231000,271000,,
+450,Community Development Fund,Office of Housing and Community Development,Payments to Other Funds,30000,25000,,
+451,General Fund,Atwater Kent Museum,Purchase of Services,,0,,
+452,General Fund,Auditing,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+453,General Fund,City Planning Commission,Personal Services,2309534,2369484,,
+454,General Fund,City Planning Commission,Purchase of Services,79592,129592,,
+455,General Fund,City Planning Commission,"Materials, Supplies, and Equipment",40652,40652,,
+456,General Fund,District Attorney,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+457,General Fund,Fire,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+458,General Fund,First Judicial District,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+459,General Fund,Fleet Management,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+460,General Fund,Free Library,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+461,General Fund,Historical Commission,Personal Services,422771,429943,,
+462,General Fund,Historical Commission,Purchase of Services,980,980,,
+463,General Fund,Historical Commission,"Materials, Supplies, and Equipment",809,809,,
+464,General Fund,L&I  - Zoning Board of Adjustment,Personal Services,337749,337749,,
+465,General Fund,L&I  - Zoning Board of Adjustment,Purchase of Services,34541,34541,,
+466,General Fund,Law,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+467,General Fund,Licenses and Inspections,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+468,General Fund,Managing Director's Office,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+469,General Fund,Mayor's Office,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+470,General Fund,Mayor's Office of Transportation & Utilities,Personal Services,474340,0,,
+471,General Fund,Mayor's Office of Transportation & Utilities,Purchase of Services,259930,0,,
+472,General Fund,Office of Housing and Community Development,Purchase of Services,2520000,2865000,,
+473,General Fund,Office of Housing and Community Development,Payments to Other Funds,,0,,
+474,General Fund,Office of Innovation and Technology,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+475,General Fund,Office of Supportive Housing,Personal Services,8281213,8636443,,
+476,General Fund,Office of Supportive Housing,Purchase of Services,36586621,37044215,,
+477,General Fund,Office of Supportive Housing,"Materials, Supplies, and Equipment",344127,344127,,
+478,General Fund,Office of Supportive Housing,"Contributions, Indemnities, Refunds, and Taxes",32421,32421,,
+479,General Fund,Police,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+480,General Fund,Procurement,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+481,General Fund,Public Health,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+482,General Fund,Public Property,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+483,General Fund,Revenue,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+484,General Fund,Sheriff,"Contributions, Indemnities, Refunds, and Taxes",,0,,
+485,General Fund,Streets,Payments to Other Funds,,0,,
+486,General Fund,Youth Commission,Personal Services,92660,0,,
+487,General Fund,Youth Commission,Purchase of Services,46000,0,,
+488,General Fund,Youth Commission,"Materials, Supplies, and Equipment",4080,0,,
+489,Grants Revenue Fund,City Planning Commission,Personal Services,475261,123204,,
+490,Grants Revenue Fund,City Planning Commission,Purchase of Services,955206,355144,,
+491,Grants Revenue Fund,City Planning Commission,Payments to Other Funds,1600,400,,
+492,Grants Revenue Fund,Commerce,Personal Services,,49814,,
+493,Grants Revenue Fund,Licenses and Inspections,Purchase of Services,4500000,4500000,,
+494,Grants Revenue Fund,Office of Housing and Community Development,Purchase of Services,128117000,116180000,,
+495,Grants Revenue Fund,Office of Supportive Housing,Personal Services,710423,610701,,
+496,Grants Revenue Fund,Office of Supportive Housing,Purchase of Services,44956142,45842016,,
+497,Grants Revenue Fund,Office of Supportive Housing,"Materials, Supplies, and Equipment",887489,1000000,,
+498,Health Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual Disabilities,"Materials, Supplies, and Equipment",,50000,,
+499,Housing Trust Fund,Office of Housing and Community Development,Personal Services,1250000,1250000,,
+500,Housing Trust Fund,Office of Housing and Community Development,Purchase of Services,23250000,22250000,,
+501,Water Fund,Law,Equipment,13010,,,
+502,Grants Revenue Fund,Police,Equipment,8361852,,,
+503,General Fund,Mayor's Office of Community Services (now CEO),Purchase of Services,605000,,,
+504,County Liquid Fuels Tax Fund,Streets,Equipment,80000,,,
+505,Special Gasoline Tax Fund,Streets,Equipment,5055008,,,
+506,Health Choices Behavioral Health Fund,Office of Behavioral Health and Intellectual Disabilities,Equipment,50000,,,
+507,Grants Revenue Fund,Auditing,Equipment,175000,,,
+508,Grants Revenue Fund,City Commissioners,Equipment,100000,,,
+509,Grants Revenue Fund,City Representative,Personal Services,49814,,,
+510,Grants Revenue Fund,City Representative,Purchase of Services,10811988,,,
+511,Grants Revenue Fund,District Attorney,Equipment,84462,,,
+512,Grants Revenue Fund,Finance - Provision for Other Grants,Advances and Other Misc Payments,203800721,,,
+513,Grants Revenue Fund,Fire,Equipment,145333,,,
+514,Grants Revenue Fund,First Judicial District,Equipment,323512,,,
+515,Grants Revenue Fund,Free Library,Equipment,144854,,,
+516,Grants Revenue Fund,Human Services,Equipment,1370347,,,
+517,Grants Revenue Fund,Managing Director's Office,Equipment,199895,,,
+518,Grants Revenue Fund,Mayor's Office,Equipment,2146,,,
+519,Grants Revenue Fund,Mayor's Office of Community Services (now CEO),Personal Services,2800644,,,
+520,Grants Revenue Fund,Mayor's Office of Community Services (now CEO),Purchase of Services,13075621,,,
+521,Grants Revenue Fund,Mayor's Office of Community Services (now CEO),"Materials, Supplies, and Equipment",13125,,,
+522,Grants Revenue Fund,Mayor's Office of Community Services (now CEO),Equipment,35000,,,
+523,Grants Revenue Fund,Mayor's Office of Transportation & Utilities,Personal Services,127583,,,
+524,Grants Revenue Fund,Mayor's Office of Transportation & Utilities,Purchase of Services,1698435,,,
+525,Grants Revenue Fund,Mayor's Office of Transportation & Utilities,"Materials, Supplies, and Equipment",2500,,,
+526,Grants Revenue Fund,Office of Behavioral Health and Intellectual Disabilities,Equipment,135940,,,
+527,Grants Revenue Fund,Parks and Recreation,Equipment,70000,,,
+528,Grants Revenue Fund,Public Health,Equipment,641586,,,
+529,Grants Revenue Fund,Streets,Equipment,1755000,,,
+530,Community Development Fund,Commerce,Equipment,5000,,,
+531,Community Development Fund,Finance - Provision for Other Grants,Advances and Other Misc Payments,20000000,,,
+532,Community Development Fund,Office of Housing and Community Development,Equipment,50000,,,
+533,Water Fund,Fleet Management,Equipment,60000,,,
+534,Water Fund,Mayor's Office of Transportation & Utilities,Personal Services,138550,,,
+535,Water Fund,Office of Innovation and Technology,Equipment,1808950,,,
+536,Water Fund,Revenue,Equipment,126435,,,
+537,Water Fund,Water,Equipment,3398350,,,
+538,Aviation Fund,Aviation,Personal Services,46218000,,,
+539,Aviation Fund,Aviation,Purchase of Services,96372841,,,
+540,Aviation Fund,Aviation,"Materials, Supplies, and Equipment",8720000,,,
+541,Aviation Fund,Aviation,Equipment,3330000,,,
+542,Aviation Fund,Aviation,"Contributions, Indemnities, Refunds, and Taxes",4205000,,,
+543,Aviation Fund,Aviation,Payments to Other Funds,24600000,,,
+544,Aviation Fund,Fire,Equipment,40000,,,
+545,Aviation Fund,Fleet Management,Equipment,4840000,,,
+546,Aviation Fund,Law,Equipment,14800,,,
+547,Aviation Fund,Mayor's Office of Transportation & Utilities,Personal Services,191299,,,
+548,Aviation Fund,Office of Innovation and Technology,Equipment,715000,,,
+549,Acute Care Hospital Assessment Fund,Public Health,Equipment,60000,,,
+550,Acute Care Hospital Assessment Fund,Revenue,Equipment,10000,,,
